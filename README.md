@@ -6,6 +6,7 @@
   <a href="mailto:avinashsingh2003ash@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" /></a>
   <a href="https://linkedin.com/in/avinash-pratap-singh"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/Astroash2001"><img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white" /></a>
+  <a href="https://portfolio-avinashsingh2001ash-gmailcoms-projects.vercel.app/"><img src="https://img.shields.io/badge/AshFolio-000000?logo=vercel&logoColor=white" /></a>
 </p>
 
 ---
