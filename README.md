@@ -17,6 +17,31 @@
 
 ---
 
+### 💻 Interactive Terminal Status
+
+```bash
+⚡ avinash@astroash2001-macbook:~$ status --profile
+┌────────────────────────────────────────────────────────────────────────────────┐
+│  ▶ ROLE: Full Stack Developer & AI Systems Engineer                            │
+│  ▶ CURRENT FOCUS: Production Agentic AI, Multimodal RAG & High-Scale APIs      │
+│  ▶ CURRENT COMPANY: Five Alphabets (Building United AI)                        │
+│  ▶ SYSTEM STATUS: 🟢 All 7 REST APIs Operational | 2,000+ Active Users          │
+│  ▶ RECENT SHIPPED: Aurelis (Agentic Invoice Processor with Pydantic Rules)     │
+└────────────────────────────────────────────────────────────────────────────────┘
+```
+
+---
+
+### 💡 Tech Philosophy & Core Principles
+
+<div align="center">
+
+[![Philosophy SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&pause=1200&color=39FF14&center=true&vCenter=true&width=750&lines=Zero+Hallucination+LLM+Schemas+using+Pydantic+%26+Structured+Outputs;Sub-350ms+Microservices+with+FastAPI+%26+Tenacity+Resilience;Sub-2s+WebXR+Eyewear+Fitting+Supporting+10%2B+Indian+Languages;Multi-Modal+AI+Pipelines+(GPT-4o+Vision+%2B+Whisper+STT);Production-Grade+Agentic+Workflows+%26+Tool-Calling+Architecture)](https://git.io/typing-svg)
+
+</div>
+
+---
+
 ## 💫 About Me
 
 - 🔭 **Currently working on** → **[United AI](https://ai-summarizer-pro-frontend.onrender.com)** — a multi-tool AI platform (React.js + Django REST) at **Five Alphabets**, serving **2,000+ users** with 7 REST APIs, multi-modal Vision OCR & Whisper STT pipelines.
@@ -107,49 +132,100 @@
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Featured Projects & Architecture Deep Dives
 
-### 🌟 [United AI](https://ai-summarizer-pro-frontend.onrender.com)
-> **Full-Stack AI Platform (React.js + Django REST Framework)**
+<details open>
+<summary><b>🌟 1. United AI — Multi-Tool Full-Stack AI Platform</b> <i>(Click to Expand Architecture)</i></summary>
+<br/>
+
+> **Stack**: React.js · Django REST Framework · TypeScript · GPT-4o-mini · GPT-4o Vision OCR · Whisper STT · Gunicorn · Render
 - Architected & shipped a platform exposing **7 REST APIs** across **17+ file formats** (PDF, images, audio, video) with **50 MB** upload support.
 - Engineered a multimodal pipeline integrating **GPT-4o-mini**, **GPT-4o Vision OCR**, and **Whisper STT** for document summarization, RAG Q&A, and timestamped audio/video chapters.
 - Built an autonomous **AI Brain** navigation agent across 4 core modules with **TypeScript**, **Gunicorn**, and **Render** cloud deployment.
 - 🔗 **[Live Demo](https://ai-summarizer-pro-frontend.onrender.com)**
 
----
+</details>
 
-### 📑 [Aurelis — Agentic Invoice & Receipt Processor](https://invoice-parser-agent.vercel.app/)
-> **Agentic AI · Python · FastAPI · Next.js · Tesseract OCR · OpenRouter · Docker**
-- Built a tool-calling AI agent supporting **4 document formats** with **3 extraction paths**: digital PDF parsing, Tesseract OCR, and vision fallback.
+<details open>
+<summary><b>📑 2. Aurelis — Agentic Invoice & Receipt Processor</b> <i>(Click to Expand Architecture)</i></summary>
+<br/>
+
+> **Stack**: Agentic AI · Python · FastAPI · Next.js · Tesseract OCR · OpenRouter · Docker · Pydantic
+- Built a tool-calling AI agent supporting **4 document formats** with **3 extraction paths**: digital PDF parsing, Tesseract OCR, and vision fallback for low-quality documents.
 - Implemented a **4-stage verification workflow** covering schema validation, line-item arithmetic, subtotal/tax reconciliation, and final-total checking using **Pydantic** decimal arithmetic.
 - Deployed a **Next.js** frontend on Vercel and Dockerized **FastAPI** backend on Render with **37 automated unit tests** and CI checks.
 - 🔗 **[Live Demo](https://invoice-parser-agent.vercel.app/)**
 
----
+</details>
 
-### 🎫 [Support Ticket Classifier API](https://github.com/Astroash2001/ai-ticket-classifier)
-> **Python · FastAPI · Gemini 2.5 Flash LLM · Pydantic · Tenacity**
+<details>
+<summary><b>🎫 3. Support Ticket Classifier API</b> <i>(Click to Expand Specs)</i></summary>
+<br/>
+
+> **Stack**: Python · FastAPI · Gemini 2.5 Flash LLM · Pydantic Enums · Tenacity
 - Architected an asynchronous RESTful microservice using **FastAPI** to automate ticket triage with **<350ms latency**, cutting manual review overhead by **75%**.
 - Integrated **Google Gemini 2.5 Flash** with **Pydantic Enums** to extract structured metadata with **100% schema compliance**.
 - Engineered a 2-tier resilience layer featuring **Tenacity** backoff retries and keyword-matching fallback logic, maintaining **99.9% uptime**.
 - 🔗 **[GitHub Repository](https://github.com/Astroash2001/ai-ticket-classifier)**
 
----
+</details>
 
-### 🤖 [RAG Doc Q&A App](https://rag-doc-q-a-6swvp3xgn8xd25u2h4rmqu.streamlit.app/)
-> **LangChain · Streamlit · OpenAI · ChromaDB**
+<details>
+<summary><b>🤖 4. RAG Doc Q&A App</b> <i>(Click to Expand Specs)</i></summary>
+<br/>
+
+> **Stack**: LangChain · Streamlit · OpenAI · ChromaDB
 - Engineered a Retrieval-Augmented Generation (RAG) system with structured retrieval pipelines, achieving **90%+ semantic accuracy**.
 - Implemented multi-step query workflows, dynamic context injection, and LLM-driven reasoning with **<3s response latency**.
 - 🔗 **[Live App](https://rag-doc-q-a-6swvp3xgn8xd25u2h4rmqu.streamlit.app/)**
 
----
+</details>
 
-### 🥽 [Vocal AR](https://bhasini-final-g3et.vercel.app/index.html)
-> **WebXR · Bhashini API · HTML · CSS · JavaScript · Django**
+<details>
+<summary><b>🥽 5. Vocal AR — WebXR Multilingual Try-On</b> <i>(Click to Expand Specs)</i></summary>
+<br/>
+
+> **Stack**: WebXR · Bhashini API · HTML · CSS · JavaScript · Django
 - Created a virtual try-on experience using **WebXR** to simulate eyewear fittings, increasing average session time by **65%**.
 - Integrated voice-driven commands in **10+ Indian languages** using **Bhashini API**.
 - Optimized asset delivery on Vercel achieving load speeds **under 2 seconds**, boosting user conversion by **40%**.
 - 🔗 **[Live Demo](https://bhasini-final-g3et.vercel.app/index.html)**
+
+</details>
+
+---
+
+## 📰 Live Auto-Updating Activity Stream
+
+<!--START_SECTION:activity-->
+- 🚀 Pushed to [Astroash2001/Astroash2001](https://github.com/Astroash2001/Astroash2001) - Update profile README with live widgets, terminal simulation, & project accordions.
+<!--END_SECTION:activity-->
+
+---
+
+## ⏳ Live Coding Metrics & WakaTime Activity
+
+<div align="center">
+
+[![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Astroash2001&theme=tokyonight&hide_border=false&layout=compact)](https://github.com/Astroash2001)
+
+</div>
+
+---
+
+## 🐍 Live Contribution Snake & 🌆 3D Contribution City
+
+<div align="center">
+
+### 🐍 Contribution Snake Animation
+<img src="https://raw.githubusercontent.com/Astroash2001/Astroash2001/output/github-contribution-grid-snake-dark.svg" alt="Snake contribution animation" width="100%" />
+
+<br/><br/>
+
+### 🌆 Isometric 3D Contribution City
+<img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution city" width="100%" />
+
+</div>
 
 ---
 
@@ -167,7 +243,7 @@
 
 ---
 
-## 📊 GitHub Analytics & Activity
+## 📊 GitHub Analytics
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Astroash2001&theme=tokyonight&show_icons=true&hide_border=false&count_private=true" height="170" alt="stats card" />
