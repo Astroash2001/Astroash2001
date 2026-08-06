@@ -198,7 +198,7 @@
 ## 📰 Live Auto-Updating Activity Stream
 
 <!--START_SECTION:activity-->
-- 🚀 Pushed to [Astroash2001/Astroash2001](https://github.com/Astroash2001/Astroash2001) - Update profile README with live widgets, terminal simulation, & project accordions.
+1. 🎉 Merged PR [#1](https://github.com/Astroash2001/Invoice-Parser-Agent/pull/1) in [Astroash2001/Invoice-Parser-Agent](https://github.com/Astroash2001/Invoice-Parser-Agent)
 <!--END_SECTION:activity-->
 
 ---
