@@ -198,18 +198,8 @@
 ## 📰 Live Auto-Updating Activity Stream
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/Astroash2001/Invoice-Parser-Agent/pull/1) in [Astroash2001/Invoice-Parser-Agent](https://github.com/Astroash2001/Invoice-Parser-Agent)
+- 🚀 Pushed to [Astroash2001/Astroash2001](https://github.com/Astroash2001/Astroash2001) - Configured automated GitHub Actions for 3D contribution city & contribution snake animation.
 <!--END_SECTION:activity-->
-
----
-
-## ⏳ Live Coding Metrics & WakaTime Activity
-
-<div align="center">
-
-[![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Astroash2001&theme=tokyonight&hide_border=false&layout=compact)](https://github.com/Astroash2001)
-
-</div>
 
 ---
 
@@ -218,7 +208,7 @@
 <div align="center">
 
 ### 🐍 Contribution Snake Animation
-<img src="https://raw.githubusercontent.com/Astroash2001/Astroash2001/output/github-contribution-grid-snake-dark.svg" alt="Snake contribution animation" width="100%" />
+<img src="./assets/github-contribution-grid-snake-dark.svg" alt="Snake contribution animation" width="100%" />
 
 <br/><br/>
 
@@ -243,7 +233,7 @@
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub & Problem Solving Analytics
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Astroash2001&theme=tokyonight&show_icons=true&hide_border=false&count_private=true" height="170" alt="stats card" />
