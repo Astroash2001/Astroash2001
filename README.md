@@ -198,7 +198,7 @@
 ## 📰 Live Auto-Updating Activity Stream
 
 <!--START_SECTION:activity-->
-- 🚀 Pushed to [Astroash2001/Astroash2001](https://github.com/Astroash2001/Astroash2001) - Configured automated GitHub Actions for 3D contribution city & contribution snake animation.
+- 🚀 Pushed to [Astroash2001/Astroash2001](https://github.com/Astroash2001/Astroash2001) - Generated 3D contribution graph & contribution snake SVGs.
 <!--END_SECTION:activity-->
 
 ---
@@ -208,12 +208,12 @@
 <div align="center">
 
 ### 🐍 Contribution Snake Animation
-<img src="./assets/github-contribution-grid-snake-dark.svg" alt="Snake contribution animation" width="100%" />
+<img src="https://raw.githubusercontent.com/Astroash2001/Astroash2001/main/assets/github-contribution-grid-snake-dark.svg" alt="Snake contribution animation" width="100%" />
 
 <br/><br/>
 
 ### 🌆 Isometric 3D Contribution City
-<img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution city" width="100%" />
+<img src="https://raw.githubusercontent.com/Astroash2001/Astroash2001/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution city" width="100%" />
 
 </div>
 
