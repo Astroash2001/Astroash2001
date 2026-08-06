@@ -198,7 +198,7 @@
 ## 📰 Live Auto-Updating Activity Stream
 
 <!--START_SECTION:activity-->
-- 🚀 Pushed to [Astroash2001/Astroash2001](https://github.com/Astroash2001/Astroash2001) - Generated 3D contribution graph & contribution snake SVGs.
+- 🚀 Pushed to [Astroash2001/Astroash2001](https://github.com/Astroash2001/Astroash2001) - Update visitor count badge to reliable Komarev profile view counter.
 <!--END_SECTION:activity-->
 
 ---
@@ -253,7 +253,5 @@
   
   <br/>
   
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=Astroash2001&icon=0&color=0" alt="visitor count" />
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=Astroash2001&color=00F0FF&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
 </div>
