@@ -17,6 +17,15 @@
 
 ---
 
+### 🤖 Featured: Agent Tooling
+
+| Project | What it does |
+|---|---|
+| **[AgentHQ](https://github.com/Astroash2001/agent-hq)** | Multi-agent LLM harness you can watch, price, resume and replay. A planner turns a goal into a DAG, specialists run the steps in parallel, and a live 2D pixel-art office is the debugger. |
+| **[TermPilot](https://github.com/Astroash2001/termpilot)** | Your PC's coding agents and terminal on your phone. Drives Claude Code, Codex and Antigravity over the Agent Client Protocol, with live session handoff between PC and phone. |
+
+---
+
 ### 💻 Interactive Terminal Status
 
 ```bash
