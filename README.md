@@ -207,7 +207,7 @@
 ## 📰 Live Auto-Updating Activity Stream
 
 <!--START_SECTION:activity-->
-- 🚀 Pushed to [Astroash2001/Astroash2001](https://github.com/Astroash2001/Astroash2001) - Update visitor count badge to reliable Komarev profile view counter.
+1. ❌ Closed PR [#2](https://github.com/Astroash2001/termpilot/pull/2) in [Astroash2001/termpilot](https://github.com/Astroash2001/termpilot)
 <!--END_SECTION:activity-->
 
 ---
